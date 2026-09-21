@@ -1,5 +1,5 @@
 ---
-title: Azure
+title: Azure Kubernetes Service (AKS)
 description: 在 Azure 上使用 Cloud API Adaptor (CAA) 的 Peer Pods Helm Chart
 categories:
 - examples

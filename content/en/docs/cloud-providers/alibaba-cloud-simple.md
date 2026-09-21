@@ -1,14 +1,12 @@
 ---
-
-title: Alibaba Cloud
+title: Alibaba Cloud (ACK)
 description: Cloud API Adaptor (CAA) on Alibaba Cloud
 categories:
-
-- examples
+  - cloud-providers
 tags:
-- caa
-- alibaba cloud
-- ack
+  - caa
+  - alibaba cloud
+  - ack
 
 ---
 

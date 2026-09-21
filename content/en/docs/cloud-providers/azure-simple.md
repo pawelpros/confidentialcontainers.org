@@ -1,8 +1,8 @@
 ---
-title: Azure
+title: Azure Kubernetes Service (AKS)
 description: Peer Pods Helm Chart using Cloud API Adaptor (CAA) on Azure
 categories:
-  - examples
+  - cloud-providers
 tags:
   - helm
   - caa
@@ -473,7 +473,7 @@ This repository contains the necessary scripts and configurations to build the P
 
 ##### Build the PodVM image
 
-1. Navigate to the `cloud-api-adaptor/src/cloud-api-adaptor/podvm` directory.
+1. Navigate to the `../../../../../cloud-api-adaptor/src/cloud-api-adaptor/podvm` directory.
 
 2. Build the **binaries** using below command:
 

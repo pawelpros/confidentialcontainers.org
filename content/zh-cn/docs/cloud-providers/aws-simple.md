@@ -1,5 +1,5 @@
 ---
-title: AWS
+title: AWS (EKS)
 description: 在 AWS 上使用 Cloud API Adaptor (CAA) 的 Peer Pods Helm Chart
 categories:
 - examples
